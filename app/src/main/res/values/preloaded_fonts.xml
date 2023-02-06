@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_sc_black_italic</item>
+        <item>@font/chicle</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/seaweed_script</item>
+    </array>
+</resources>
