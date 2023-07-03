@@ -10,8 +10,7 @@ Basically it contains of pages, namely:
 a.	Landing Page 
 b.	Login Page 
 c.	SignUp Page 
-d.	Form Page 
-e.	Result Page (in process) 
+d.	Form Page  
 
 ## Backend Implementation
 We have used Python language for prediction of occurrence of heart disease. We have used five different algorithm and came to a conclusion that voting classifier and Logistic regression methods gives the highest accuracy. Further implementation is going on for linking the entered data by user in the application with the test data of the machine learning. 
